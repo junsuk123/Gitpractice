@@ -1,7 +1,8 @@
-app ver 0.3
+app ver 0.4
 
-appname="alom"
+appname="atom"
 
 add login
 add logout
 sighn in
+add quit
