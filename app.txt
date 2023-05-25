@@ -6,3 +6,4 @@ add login
 add logout
 sighn in
 add quit
+add restart
