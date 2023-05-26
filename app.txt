@@ -1,9 +1,10 @@
 app ver 0.4
 
-appname="atom"
+appname="alom00"
 
 add login
 add logout
 sighn in
 add quit
 add restart
+add something
